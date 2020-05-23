@@ -315,12 +315,12 @@
     "name" : "rfcache_reads_from_cache"
   },
   "rfcacheFdInlightReads": {
-    "type" : "counter",
+    "type" : "gauge",
     "help": "Property rfcacheFdInflightReads",
     "name" : "rfcache_fd_inflight_reads"
   },
   "rfcacheFdInlightWrites": {
-    "type" : "counter",
+    "type" : "gauge",
     "help": "Property rfcacheFdInflightWrites",
     "name" : "rfcache_fd_inflight_writes"
   },
@@ -345,7 +345,7 @@
     "name" : "rfcache_pool_read_hit"
   },
   "rfcachePoolEvictions": {
-    "type" : "counter",
+    "type" : "gauge",
     "help": "Property rfcachePoolEvictions",
     "name" : "rfcache_pool_evictions"
   },

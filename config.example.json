@@ -5,7 +5,7 @@
     "user": "admin",
     "pass" : "qwerty",
     "listen_ip" : "0.0.0.0",
-    "listen_port" : 9187
+    "listen_port" : 9186
   },
   "vxflexhost-2": {
     "host" : "vxflexhost-2.domain.com",
@@ -13,6 +13,6 @@
     "user": "admin",
     "pass" : "ytrewq",
     "listen_ip" : "0.0.0.0",
-    "listen_port" : 9188
+    "listen_port" : 9187
   }
 }

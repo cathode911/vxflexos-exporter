@@ -586,7 +586,7 @@
         "values": {
           "SSD": 0,
           "NVDIMM": 1
-        }        
+        }
       },
       {
         "key": "isRfcache",
